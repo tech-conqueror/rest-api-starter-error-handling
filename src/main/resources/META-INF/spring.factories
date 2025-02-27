@@ -1,0 +1,2 @@
+org.springframework.boot.autoconfigure.EnableAutoConfiguration=\
+com.techconqueror.api.rest.starter.error.handling.configuration.ErrorHandlingConfiguration
